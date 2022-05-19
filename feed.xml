@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:C02F1451-87B9-47AB-ABE0-DF82D49D4241</id>
+ <title>Page list Atom feed</title>
+ <updated>2022-05-18T13:03:18+05:30</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:44022782-7B44-4795-8122-5D2CF7DF6DB4</id>
+  <title>HOME</title>
+  <title xmlns="urn:iweb:">HOME</title>
+  <in-navbar xmlns="urn:iweb:">44022782-7B44-4795-8122-5D2CF7DF6DB4</in-navbar>
+  <link rel="alternate" href="HOME.html"/>
+  <updated>2022-05-18T13:03:18.001+05:30</updated>
+  <content>HOME</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3663F96B-E269-4858-8D12-F7A1E556F433</id>
+  <title>Profile</title>
+  <title xmlns="urn:iweb:">Profile</title>
+  <in-navbar xmlns="urn:iweb:">3663F96B-E269-4858-8D12-F7A1E556F433</in-navbar>
+  <link rel="alternate" href="Profile.html"/>
+  <updated>2022-05-18T13:03:18.002+05:30</updated>
+  <content>Profile</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:72B2E4EA-2CF5-49C7-8123-C1DB661FDF2C</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">72B2E4EA-2CF5-49C7-8123-C1DB661FDF2C</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2022-05-18T13:03:18.003+05:30</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:797659CD-5897-4E3A-BBF4-104B55C64217</id>
+  <title>Patents</title>
+  <title xmlns="urn:iweb:">Patents</title>
+  <in-navbar xmlns="urn:iweb:">797659CD-5897-4E3A-BBF4-104B55C64217</in-navbar>
+  <link rel="alternate" href="Patents.html"/>
+  <updated>2022-05-18T13:03:18.004+05:30</updated>
+  <content>Patents</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:59821C0B-8DDE-42D0-A7F1-749D1C9860BB</id>
+  <title>Lab Members</title>
+  <title xmlns="urn:iweb:">Lab Members</title>
+  <in-navbar xmlns="urn:iweb:">59821C0B-8DDE-42D0-A7F1-749D1C9860BB</in-navbar>
+  <link rel="alternate" href="Lab_Members.html"/>
+  <updated>2022-05-18T13:03:18.005+05:30</updated>
+  <content>Lab Members</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:091209FB-6102-45AC-B16B-E1432325742C</id>
+  <title>Teaching</title>
+  <title xmlns="urn:iweb:">Teaching</title>
+  <in-navbar xmlns="urn:iweb:">091209FB-6102-45AC-B16B-E1432325742C</in-navbar>
+  <link rel="alternate" href="Teaching.html"/>
+  <updated>2022-05-18T13:03:18.006+05:30</updated>
+  <content>Teaching</content>
+ </entry>
+</feed>
